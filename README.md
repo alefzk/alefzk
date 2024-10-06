@@ -15,7 +15,7 @@ Hello, my name is Alef!<br>I am a computer science student seeking opportunities
 </div><br>
 
 # 📚 Courses:
-<div styke="display: inline_block" target="_blank">
+<div styke="display: inline_block">
 <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">
   <img align="center" alt="Harvard" height="100" width="400" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Harvard_University_logo.svg" />
 </a>
